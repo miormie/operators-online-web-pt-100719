@@ -27,10 +27,4 @@ def not_safe?(speed)
 end
 	
 
-# 
-
- #speed => 60 || speed < 40
-
-# age = 1
- 
-# age < 2 ? "baby" : "not a baby"
+#replace if statements with ?:
