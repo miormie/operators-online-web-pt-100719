@@ -14,7 +14,7 @@ def unsafe?(speed) # unsafe? takes argument of speed and return true if speed un
 return false 
  
   #unsafe takes an argument of speed and return true if speed is below 40 or above 60
-
+#binding.pry
 
 end 
 end
